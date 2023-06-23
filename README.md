@@ -1,6 +1,7 @@
 
+![Screenshot (151)](https://github.com/Jimshana/e-commerce-app/assets/84218884/352b609a-1aed-4d62-ba39-703c04cbe07d)
 
-![Screenshot (150)](https://github.com/Jimshana/e-commerce-app/assets/84218884/cb70e174-335d-4ee0-acf3-ee9647cc4571)
+
 
 ![Screenshot (153)](https://github.com/Jimshana/e-commerce-app/assets/84218884/26e3ba55-0e29-4ee7-934a-26016f437f18)
 ![Screenshot (156)](https://github.com/Jimshana/e-commerce-app/assets/84218884/103aef1f-92b3-4cd7-b335-3a5b061023c4)
